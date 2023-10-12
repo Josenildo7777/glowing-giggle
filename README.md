@@ -1,1 +1,5 @@
 # glowing-giggle
+
+EQUIPE: ALUNOS 6A
+
+PROFESSOR: JOSENILDO DOS SANTOS
